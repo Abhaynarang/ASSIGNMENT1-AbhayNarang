@@ -8,7 +8,7 @@ ASSIGNMENT1-AbhayNarang
 /Task2.py
 
 ASSIGNMENT2 - Module 3:Control Structure in Python
-chknum.py
-Sumnumber.py
-
+Module 3: Control Structures
+1. chknum.py - program to check number is odd/even
+2. sumnumber.py - program to sum from 1 to 50
 
